@@ -2,7 +2,7 @@
 
 A set of handy scripts designed specifically for LX63
 
-📌 Key Features
+### 📌 Key Features
 
     Lightweight and efficient utilities
 
