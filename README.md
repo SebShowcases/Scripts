@@ -1,4 +1,4 @@
-## Script
+## Script Collection
 
 A set of handy scripts designed specifically for LX63
 📌 Key Features
