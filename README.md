@@ -6,9 +6,9 @@ A set of handy scripts designed specifically for LX63
 
     Lightweight and efficient utilities
 
-    Free to use, modify, and distribute
+    Free to use, and distribute
 
-    Tailored for LX63 compatibility
+    Made for LX63 compatibility
 
 ## ⚠️ Important Note
 
